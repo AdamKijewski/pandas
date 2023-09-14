@@ -1,6 +1,8 @@
 About the Copyright Holders
 ===========================
 
+xd
+
 *   Copyright (c) 2008-2011 AQR Capital Management, LLC
 
     AQR Capital Management began pandas development in 2008. Development was
